@@ -29,9 +29,5 @@ Projeyi bilgisayarınızda çalıştırmak için aşağıdaki adımları takip e
 
 ### 1. Repoyu Klonlayın  
 ```bash
-git clone https://github.com/Yamikar/Darklyn-UI.git
 
-📌 Bunu `README.md` dosyası olarak repoya koyduğunda GitHub’da otomatik olarak güzel biçimde görünecek.  
-
-👉 İstersen ben sana **badge’ler** (License, Stars, Issues, NPM) eklenmiş sürümü de hazırlayayım mı?
 
